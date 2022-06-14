@@ -4,7 +4,7 @@ import BlogTheme from "@sairinjs/sairin-theme-minimal";
 
 export default {
   siteConfig: {
-    title: 'Sairin'
+    title: '上升气流'
   },
   theme: BlogTheme,
   themeConfig: {
