@@ -4,7 +4,8 @@ import BlogTheme from "@sairinjs/sairin-theme-minimal";
 
 export default {
   siteConfig: {
-    title: '上升气流'
+    title: '上升气流',
+    url: 'https://corwin.vercel.app'
   },
   theme: BlogTheme,
   themeConfig: {
